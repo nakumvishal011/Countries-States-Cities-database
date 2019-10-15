@@ -4108,7 +4108,7 @@ INSERT INTO `states` (`id`, `name`, `country_id`) VALUES
 (4118, 'Matabeleland North', 246),
 (4119, 'Matabeleland South', 246),
 (4120, 'Midlands', 246),
-(4121, 'Midlands', 153);
+(4121, 'Kathmandu', 153);
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
