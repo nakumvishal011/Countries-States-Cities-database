@@ -1,4 +1,4 @@
-SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+﻿SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
@@ -4107,7 +4107,8 @@ INSERT INTO `states` (`id`, `name`, `country_id`) VALUES
 (4117, 'Masvingo', 246),
 (4118, 'Matabeleland North', 246),
 (4119, 'Matabeleland South', 246),
-(4120, 'Midlands', 246);
+(4120, 'Midlands', 246),
+(4121, 'Midlands', 153);
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;

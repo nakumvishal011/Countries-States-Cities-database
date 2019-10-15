@@ -20563,6 +20563,11 @@
             "id": "4120",
             "name": "Midlands",
             "country_id": "246"
+        },
+        {
+            "id": "4120",
+            "name": "Kathmandu",
+            "country_id": "153"
         }
     ]
 }
